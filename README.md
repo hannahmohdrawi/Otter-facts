@@ -9,4 +9,6 @@ Practicing using React by creating a static website containing info regarding ot
 * CSS
 * JavaScript
 
+## Completed Date:
+* 13 Apr 2024
 
